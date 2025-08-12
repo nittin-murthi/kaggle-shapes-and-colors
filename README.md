@@ -1,5 +1,8 @@
 # Shapes and Colors — Multi-Label Classification (Kaggle-style)
 
+> Notebook viewer: https://nbviewer.org/github/nittinmurthi/kaggle-shapes-and-colors.git/blob/main/shapes-and-colors-report.ipynb
+
+
 A concise, reproducible repository for a Kaggle-style challenge: predict all (shape, color) pairs present in each image. Shapes: circle, square, triangle. Colors: red, green, blue. Output format matches a typical Kaggle submission: a stringified list of tuples per image.
 
 ## Overview
